@@ -1,6 +1,6 @@
 ﻿namespace SanaaAlFarah.Data.Models
 {
-    internal class tblUser : Common
+    public class tblUser : Common
     {
        public string Email { get; set; }
        public string PasswordHash { get; set; }
