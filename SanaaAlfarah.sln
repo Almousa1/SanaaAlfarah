@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanaaAlfarah", "SanaaAlfarah\SanaaAlfarah.csproj", "{263CB7AB-C6C5-4C50-9ABD-5928FB1B1E3C}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanaaAlFarah.Data", "SanaaAlFarah.Data\SanaaAlFarah.Data.csproj", "{28AE09BE-8E6B-4720-9AFA-48410488F27B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanaaAlFarah.Resources", "SanaaAlFarah.Resources\SanaaAlFarah.Resources.csproj", "{060F92F8-F66B-417F-8ED0-40B11AF30E49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
